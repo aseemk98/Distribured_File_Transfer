@@ -7,3 +7,4 @@ send_data.py
 shared/
 test/
 test.ipynb
+.ipynb_checkpoints/
